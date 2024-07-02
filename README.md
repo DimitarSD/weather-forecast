@@ -41,8 +41,6 @@ npm run build
 
 The build artifacts will be stored in the `build/` directory.
 
-https://weather-forecast-three-delta.vercel.app/
-
 ## Running Tests
 
 To run the tests use:
